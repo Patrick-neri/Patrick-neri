@@ -30,7 +30,7 @@ Sou movido pela curiosidade e pela busca constante de novos conhecimentos. Aqui 
 
 Sinta-se à vontade para entrar em contato comigo!
 
-<h3> </a> <a target="_blank" href="http://google.com](https://www.linkedin.com/in/patrick-neri/">Linkedin</a> </h3>   
+<h3> </a> <a target="_blank" href="https://www.linkedin.com/in/patrick-neri/">Linkedin</a> </h3>   
 
 ---
 
