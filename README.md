@@ -1,11 +1,11 @@
 👋 **Bem-vindo(a) ao meu perfil no GitHub!**  
-Sou **Patrick Neri**, estudante de **Tecnólogo em Ciência de Dados** e entusiasta de tecnologia. Estou em constante aprendizado e buscando aplicar meus conhecimentos para resolver problemas reais com dados.
+Sou **Patrick Neri**, estudante de **Tecnologia em Ciência de Dados** e entusiasta de tecnologia. Estou em constante aprendizado buscando aplicar meus conhecimentos para resolver problemas reais com dados.
 
 ---
 
 ## 🎓 Formação e Habilidades  
 📌 **Atualmente Estudando:**  
-- **Linguagens e Ferramentas:** SQL, Python, Postgres, Git, ETL. 
+- **Linguagens e Ferramentas:** SQL, Python, Postgres, Git, ETL, Power Querry
 - **Áreas de Interesse:** Bancos de Dados, Inteligência Artificial, Ciência de Dados  
 
 🛠 **Habilidades em Desenvolvimento:**  
@@ -16,7 +16,7 @@ Sou **Patrick Neri**, estudante de **Tecnólogo em Ciência de Dados** e entusia
 ---
 
 ## 🎯 Objetivo Profissional  
-Estou me preparando para atuar como:  
+Procuro uma oportunidade para aprender mais na prática, em especial, em uma das seguintes áreas:  
 - **Engenheiro de Dados**  
 - **Analista de Dados**  
 - **Cientista de Dados**  
@@ -28,7 +28,10 @@ Meu foco é contribuir para soluções inovadoras e orientadas por dados, utiliz
 ## 🌱 Sobre Mim  
 Sou movido pela curiosidade e pela busca constante de novos conhecimentos. Aqui no GitHub, você encontrará projetos que refletem minha jornada de aprendizado e prática na área de ciência de dados.
 
-📬 **Vamos nos conectar?**  
-Sinta-se à vontade para explorar meus repositórios ou entrar em contato comigo!
+Sinta-se à vontade para entrar em contato comigo!
+
+<h3> </a> <a target="_blank" href="http://google.com](https://www.linkedin.com/in/patrick-neri/">Linkedin</a> </h3>   
 
 ---
+
+
